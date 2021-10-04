@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a student of Mobile programming, currently live in Rio de Janeiro and I am looking for a vacancy for an internship or junior programmer
+I'm a Python backend development intern, and I'm studying NodeJS at the moment.
 
 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/paulobittencourt2077/) and
 Email : pbittencourtjr@gmail.com
