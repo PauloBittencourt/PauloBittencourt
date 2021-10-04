@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Python backend development intern, and I'm studying NodeJS at the moment.
+I'm a Python back-end development intern, and I'm studying NodeJS at the moment.
 
 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/paulobittencourt2077/) and
 Email : pbittencourtjr@gmail.com
